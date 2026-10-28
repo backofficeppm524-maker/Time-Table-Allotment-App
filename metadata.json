@@ -1,0 +1,6 @@
+{
+  "name": "Academic Period Allotment System",
+  "description": "Comprehensive school timetable generator, master period allotment matrix, teacher workload analyzer, and substitution schedule software.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
